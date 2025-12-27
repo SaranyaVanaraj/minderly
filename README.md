@@ -3,7 +3,7 @@
 **Minderly** is a cross-platform application built with **Flutter** designed to ensure seniors never miss their medications. By connecting caretakers and seniors through a real-time cloud database, it provides a persistent voice-alarm system that only silences once the medication is confirmed as taken.
 
 ## 🔗 Live Demo
-**[Click Here to Open Minderly]
+Click Here to Open Minderly
 https://minderly-5692b.web.app
 
 ## ✨ Key Features
